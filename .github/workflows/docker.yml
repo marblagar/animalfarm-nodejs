@@ -38,4 +38,4 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: |
-            marblagar/animalfarm-js:latest
+            marblagar/animalfarm-nodejs:latest
